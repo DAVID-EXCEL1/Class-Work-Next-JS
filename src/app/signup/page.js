@@ -1,6 +1,6 @@
 import React from 'react'
 
-const page = () => {
+const Page = () => {
     return (
         <div
 			style={{ animation: "slideInFromLeft 1s ease-out", margin:"120px auto" }}
@@ -112,4 +112,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Page
